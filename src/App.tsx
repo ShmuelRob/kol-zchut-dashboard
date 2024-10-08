@@ -1,10 +1,11 @@
 import './App.css'
+import Dashboard from "./pages/dashboard.tsx";
 
 function App() {
 
   return (
     <>
-      <p>react and vite!</p>
+      <Dashboard />
     </>
   )
 }
